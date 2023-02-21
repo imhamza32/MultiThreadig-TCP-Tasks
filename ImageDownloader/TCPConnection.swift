@@ -7,6 +7,7 @@
 
 import Foundation
 import Network
+import UIKit
 
 protocol TCPConnectionDelegate {
     func deviceStatusUpdated(isUpdated:Bool)
